@@ -6,14 +6,14 @@ My interests include backend and distributed systems, cloud engineering, AI, cyb
 
 ## Current project
 
-### [RelayLab](https://github.com/imSherlock/relaylab)
+### [RelayLab](https://github.com/imSherlock/RelayLab-c)
 
 A TypeScript/PostgreSQL webhook delivery lab exploring durable queues, competing workers, retries, lease fencing and signed HTTP delivery.
 
-- [Architecture and reproducible setup](https://github.com/imSherlock/relaylab#architecture)
-- [Revision-specific verification record](https://github.com/imSherlock/relaylab/blob/main/docs/verification.md)
-- [CI runs](https://github.com/imSherlock/relaylab/actions)
-- [Security boundaries and unfinished work](https://github.com/imSherlock/relaylab/blob/main/docs/security.md)
+- [Architecture and reproducible setup](https://github.com/imSherlock/RelayLab-c#architecture)
+- [Revision-specific verification record](https://github.com/imSherlock/RelayLab-c/blob/main/docs/verification.md)
+- [CI runs](https://github.com/imSherlock/RelayLab-c/actions)
+- [Security boundaries and unfinished work](https://github.com/imSherlock/RelayLab-c/blob/main/docs/security.md)
 
 RelayLab is a development and learning project, not a production-ready service. Test evidence is linked to specific revisions and environments.
 
